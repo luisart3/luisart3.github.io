@@ -5,6 +5,9 @@
 - Dark-theme
 ![Preview Website](https://github.com/luisart3/luisart3.github.io/blob/main/assets/img/Preview.png)
 
+- Light-theme
+![Preview Website](https://github.com/luisart3/luisart3.github.io/blob/main/assets/img/Preview_Light-theme.png)
+
 # Site Features
 - Responsive design adaptable to all devices
 - Link to social networks
