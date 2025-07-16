@@ -1,1 +1,1 @@
-![Preview Website](./assets/img/Preview.pgn) 
+![Preview Website](assets/img/Preview.pgn) 
