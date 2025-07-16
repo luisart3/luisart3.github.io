@@ -6,7 +6,8 @@
 ![Preview Website](https://github.com/luisart3/luisart3.github.io/blob/main/assets/img/Preview.png) 
 
 ```markdown
-## 📁 Estructura del proyecto
+## 📁 Project structure
+
 /raíz
 │
 ├── index.html
